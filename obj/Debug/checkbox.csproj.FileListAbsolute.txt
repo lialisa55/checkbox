@@ -1,0 +1,10 @@
+G:\MODULO2\checkbox\bin\Debug\checkbox.exe.config
+G:\MODULO2\checkbox\bin\Debug\checkbox.exe
+G:\MODULO2\checkbox\bin\Debug\checkbox.pdb
+G:\MODULO2\checkbox\obj\Debug\checkbox.csproj.AssemblyReference.cache
+G:\MODULO2\checkbox\obj\Debug\checkbox.Form1.resources
+G:\MODULO2\checkbox\obj\Debug\checkbox.Properties.Resources.resources
+G:\MODULO2\checkbox\obj\Debug\checkbox.csproj.GenerateResource.cache
+G:\MODULO2\checkbox\obj\Debug\checkbox.csproj.CoreCompileInputs.cache
+G:\MODULO2\checkbox\obj\Debug\checkbox.exe
+G:\MODULO2\checkbox\obj\Debug\checkbox.pdb
